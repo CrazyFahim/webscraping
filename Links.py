@@ -1,6 +1,6 @@
 # For convinence we have stored all the links in this file along with the path to the driver
 
-PATH_TO_DRIVER = "G:\PROJECTS\WebScraping\_Done Projects\Wether_undergroound\project_1\chromedriver.exe"
+PATH_TO_DRIVER = "G:\PROJECTS\WebScraping\_Done Projects\Wether_underground\project_1\chromedriver.exe"
 
 
 # Links to the pages
